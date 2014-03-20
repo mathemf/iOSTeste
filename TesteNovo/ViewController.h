@@ -10,8 +10,12 @@
 
 @interface ViewController : UIViewController
 {
+    // Comentario de Mathe
     // Comentario do Augusto editado online pela terceira vez 3asdasd
     
     //Segundo comentário do arquivo
+    // Teste
+    
+    //Comentário adicionado depois do merge
 }
 @end
